@@ -11,8 +11,7 @@ Display all customer data in tabular format using Treeview
 Handles real-world database issues like authentication and deadlocks
 
 # Application Preview
-
-![CMS GUI]("C:\Users\acer\OneDrive\Desktop\MY CMS PROJECT\Screenshot.png")
+![CMS GUI](screenshot.png)
 
 ▶ Tech Stack
 
