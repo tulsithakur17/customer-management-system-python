@@ -12,7 +12,7 @@ Handles real-world database issues like authentication and deadlocks
 
 # Application Preview
 
-![CMS GUI](screenshot.png)
+![CMS GUI]("C:\Users\acer\OneDrive\Desktop\MY CMS PROJECT\Screenshot.png")
 
 ▶ Tech Stack
 
